@@ -1,4 +1,4 @@
-# CEN3024C_SWD1_LibraryManagementSystem
+# CEN3024C_SD1_LibraryManagementSystem
 
 Gary Montero 
 3024C - Software Development 1
